@@ -54,6 +54,10 @@ const About = () => (
                 waiting to generate pages when requested, pre-build pages and
                 lift them into a global cloud of servers — ready to be delivered
                 instantly to your users wherever they are.
+                 <br />
+                <StyledExternalLink href="https://calendly.com/gritcult/60-min">
+                  Book a call now! &nbsp;&#x2794;
+                </StyledExternalLink>
               </p>
             </div>
             <Art>
