@@ -58,7 +58,7 @@ const About = () => (
 
                  <br />
                  <br />
-                <ExternalLink href="https://calendly.com/gritcult/60-min">Book a call now! &nbsp;&#x2794;</ExternalLink>
+                <a href="https://calendly.com/gritcult/60-min">Book a call now! &nbsp;&#x2794;</a>
               </p>
             </div>
             <Art>
@@ -78,7 +78,7 @@ const About = () => (
                 highly trained staff at the forefront.
                  <br />
                  <br />
-                <ExternalLink href="https://calendly.com/gritcult/60-min">Book a call now! &nbsp;&#x2794;</ExternalLink>
+                <a href="https://calendly.com/gritcult/60-min">Book a call now! &nbsp;&#x2794;</a>
               </p>
             </div>
           </Grid>
@@ -95,7 +95,7 @@ const About = () => (
                   We are ready to scale along side you!
                  <br />
                  <br />
-                <ExternalLink href="https://calendly.com/gritcult/60-min">Book a call now! &nbsp;&#x2794;</ExternalLink>
+                <a href="https://calendly.com/gritcult/60-min">Book a call now! &nbsp;&#x2794;</a>
               </p>
             </div>
             <Art>
