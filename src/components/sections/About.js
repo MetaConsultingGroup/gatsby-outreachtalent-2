@@ -55,7 +55,7 @@ const About = () => (
                 lift them into a global cloud of servers — ready to be delivered
                 instantly to your users wherever they are.
                  <br />
-
+                 <br />
                 <a href="https://calendly.com/gritcult/60-min">Book a call now! &nbsp;&#x2794;</a>
               </p>
             </div>
@@ -73,6 +73,9 @@ const About = () => (
                 Enjoy the power of the latest web technologies – React.js ,
                 Webpack , modern JavaScript and CSS and more — all set up and
                 waiting for you to start building.
+                 <br />
+                 <br />
+                <a href="https://calendly.com/gritcult/60-min">Book a call now! &nbsp;&#x2794;</a>
               </p>
             </div>
           </Grid>
@@ -85,6 +88,9 @@ const About = () => (
                 <br />
                 <br />
                 Gatsby is fast in every way that matters.
+                 <br />
+                 <br />
+                <a href="https://calendly.com/gritcult/60-min">Book a call now! &nbsp;&#x2794;</a>
               </p>
             </div>
             <Art>
