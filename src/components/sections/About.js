@@ -48,12 +48,14 @@ const About = () => (
         <Container>
           <Grid>
             <div>
-              <h2>Speed past the competition</h2>
+              <h2>The best talent for outreach!</h2>
               <p>
-                Gatsby.js builds the fastest possible website. Instead of
-                waiting to generate pages when requested, pre-build pages and
-                lift them into a global cloud of servers — ready to be delivered
-                instantly to your users wherever they are.
+                Outreach Talent provides the highest quality for outreach agencies. 
+                High quality management and extensive training have created a 
+                ready to go workforce that will act as a force multiplier 
+                for your agency.
+
+
                  <br />
                  <br />
                 <a href="https://calendly.com/gritcult/60-min">Book a call now! &nbsp;&#x2794;</a>
@@ -68,11 +70,12 @@ const About = () => (
               <Img fluid={data.art_learn.childImageSharp.fluid} />
             </Art>
             <div>
-              <h2>Nothing new to learn here</h2>
+              <h2>Cost free replacement!</h2>
               <p>
-                Enjoy the power of the latest web technologies – React.js ,
-                Webpack , modern JavaScript and CSS and more — all set up and
-                waiting for you to start building.
+                We understand everyones needs are different and we will work with you
+                to ensure that you have the best fit for your agency. 
+                Working with us you ensure you have access to 
+                highly trained staff at the forefront.
                  <br />
                  <br />
                 <a href="https://calendly.com/gritcult/60-min">Book a call now! &nbsp;&#x2794;</a>
@@ -81,13 +84,15 @@ const About = () => (
           </Grid>
           <Grid>
             <div>
-              <h2>Grow and build your ideas</h2>
+              <h2>Grow and build your Team</h2>
               <p>
-                Waste no more time on tooling and performance. Focus on the the
-                site you want to build and nothing more.
+                Waste no more time on micromanaging. 
+                Focus on the the agency you want to build and nothing more. 
+                Leave the operations to us!
+
                 <br />
                 <br />
-                Gatsby is fast in every way that matters.
+                  We are ready to scale along side you!
                  <br />
                  <br />
                 <a href="https://calendly.com/gritcult/60-min">Book a call now! &nbsp;&#x2794;</a>
