@@ -55,9 +55,12 @@ const About = () => (
                 lift them into a global cloud of servers — ready to be delivered
                 instantly to your users wherever they are.
                  <br />
+</p>
+  <p>
                 <StyledExternalLink href="https://calendly.com/gritcult/60-min">
                   Book a call now! &nbsp;&#x2794;
                 </StyledExternalLink>
+</p>
               </p>
             </div>
             <Art>
