@@ -56,7 +56,7 @@ const About = () => (
                 instantly to your users wherever they are.
                  <br />
 
-                <a href="https://calendly.com/gritcult/60-min">Book a call now!</a>
+                <a href="https://calendly.com/gritcult/60-min">Book a call now! &nbsp;&#x2794;</a>
               </p>
             </div>
             <Art>
