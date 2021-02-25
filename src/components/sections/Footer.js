@@ -15,13 +15,13 @@ const SOCIAL = [
     icon: GithubIcon,
     link: 'https://github.com/ajayns/gatsby-absurd',
   }, */
-  {
+  /*{
     icon: InstagramIcon,
     link: 'https://instagram.com/ajay_ns',
-  },
+  } */,
   {
     icon: TwitterIcon,
-    link: 'https://twitter.com/ajayns08',
+    link: 'https://twitter.com/outreachtalent',
   },
 ];
 
@@ -54,12 +54,12 @@ const Footer = () => (
         <FooterWrapper>
           <StyledContainer>
             <Copyright>
-              <h2>Absurd</h2>
+              <h2>OUTREACH TALENT</h2>
               <span>
-                Illustrations by
+                Level up your outreach! 
                 {` `}
-                <ExternalLink href="https://twitter.com/diana_valeanu">
-                  @diana_valeanu
+                <ExternalLink href="https://calendly.com/gritcult/60-min">
+                  @OUTREACHTALENT
                 </ExternalLink>
               </span>
             </Copyright>
