@@ -56,11 +56,8 @@ const About = () => (
                 instantly to your users wherever they are.
                  <br />
 
-                <a href="https://calendly.com/gritcult/60-min">
-                  Book a call now! &nbsp;&#x2794;
-                </a>
-</p>
-             
+                <a href="https://calendly.com/gritcult/60-min">Book a call now!</a>
+              </p>
             </div>
             <Art>
               <Img fluid={data.art_fast.childImageSharp.fluid} />
