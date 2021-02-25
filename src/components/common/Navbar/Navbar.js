@@ -15,7 +15,7 @@ import {
 
 import { ReactComponent as MenuIcon } from '@static/icons/menu.svg';
 
-const NAV_ITEMS = ['About', 'Contact Us'];  /*'Brands', 'Team', 'FAQ' */
+const NAV_ITEMS = ['About', <a href='https://calendly.com/gritcult/60-min/'>Contact Us</a>];  /*'Brands', 'Team', 'FAQ' */
 
 class Navbar extends Component {
   state = {
