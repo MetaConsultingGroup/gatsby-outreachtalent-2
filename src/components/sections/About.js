@@ -57,9 +57,9 @@ const About = () => (
                  <br />
 </p>
   <p>
-                <StyledExternalLink href="https://calendly.com/gritcult/60-min">
+                <a href="https://calendly.com/gritcult/60-min">
                   Book a call now! &nbsp;&#x2794;
-                </StyledExternalLink>
+                </a>
 </p>
               </p>
             </div>
